@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kipkoech Haron Sitienei - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #4A90E2;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact {
+            font-size: 0.9em;
+            color: #555;
+        }
+        ul {
+            list-style-type: square;
+            margin: 0;
+            padding-left: 20px;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .skill {
+            background: #4A90E2;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 5px;
+            margin: 5px;
+            font-size: 0.9em;
+        }
+        a {
+            color: #4A90E2;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Kipkoech Haron Sitienei</h1>
+        <p class="contact">83 Keringet, Nakuru City | +254 110 063 656 | <a href="mailto:kipkoechkipkoech5@gmail.com">kipkoechkipkoech5@gmail.com</a> | <a href="http://www.linkedin.com/in/kipkoech-sitienei-299096208">LinkedIn Profile</a></p>
+
+        <div class="section">
+            <h2>Summary</h2>
+            <p>Results-driven Data Analyst with a proven track record in streamlining data processes and delivering actionable insights. Skilled in Power BI, SQL, QGIS mapping, and certification data preparation for compliance bodies. Seeking a challenging role to leverage technical expertise and drive data-driven decision-making.</p>
+        </div>
+
+        <div class="section">
+            <h2>Work Experience</h2>
+            <h3>Junior Data Analyst | Junior Business Analyst</h3>
+            <p>Superzhan Ltd Company (Jan 2021 - Dec 2022)</p>
+            <ul>
+                <li>Conducted statistical analysis and created data visualizations using Tableau and Power BI.</li>
+                <li>Collaborated on strategies to improve process efficiency, backed by actionable data insights.</li>
+                <li>Delivered reports that effectively communicated findings to non-technical stakeholders.</li>
+            </ul>
+
+            <h3>Data Analyst</h3>
+            <p>eProd Solutions Ltd (May 2024 - Present)</p>
+            <ul>
+                <li>Developed dynamic dashboards using Power BI and Excel, enhancing decision-making processes for agricultural and CRM data.</li>
+                <li>Automated data extraction and cleaning workflows, including survey data from eProd databases.</li>
+                <li>Integrated QGIS mapping to support the Avocado Association of Uganda.</li>
+            </ul>
+
+            <h3>Junior Data Analyst | CRM Technical Assistant Trainee</h3>
+            <p>eProd Solutions Ltd (Oct 2023 - May 2024)</p>
+            <ul>
+                <li>Designed usage reports and dashboards for clients, utilizing SQL and Excel.</li>
+                <li>Conducted soil sampling analysis using SPSS and Power BI.</li>
+                <li>Supported CRM technical tasks, including report generation and database management.</li>
+            </ul>
+
+            <h3>Attache Data Clerk | PDA Operator</h3>
+            <p>Tebesonik Tea Factory (Jan 2022 - Apr 2022)</p>
+            <ul>
+                <li>Created Power BI reports and performed ETL processes on large datasets.</li>
+                <li>Managed Early Warning System (EWS) servers and handheld devices for real-time data collection.</li>
+                <li>Conducted regular data quality checks, ensuring system reliability and accuracy.</li>
+            </ul>
+
+            <h3>Junior Data Clerk | Data Engineer</h3>
+            <p>Andomic.com (Part-time, Jan 2019 - Dec 2022)</p>
+            <ul>
+                <li>Accurately input and managed data into company systems, ensuring high standards of precision.</li>
+                <li>Ensured data integrity and quality through meticulous attention to detail and regular checks.</li>
+                <li>Collaborated with team members to meet project deadlines and achieve organizational goals.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <h3>Bachelor of Science in Statistics and Computer Science</h3>
+            <p>The Technical University of Mombasa (Aug 2018 - Dec 2022)</p>
+            <p>Relevant coursework in Statistics and Computer Science.</p>
+            <p>Academic research: Impact of Security on Academic Performance of Students Living Outside the School Environment.</p>
+        </div>
+
+        <div class="section">
+            <h2>Additional Information</h2>
+            <h3>Technical Skills</h3>
+            <div class="skills">
+                <span class="skill">Project Management</span>
+                <span class="skill">Research Analysis</span>
+                <span class="skill">Statistical Analysis</span>
+                <span class="skill">Web Development</span>
+                <span class="skill">Power BI Developer</span>
+                <span class="skill">QGIS Mapping</span>
+                <span class="skill">ETL</span>
+            </div>
+
+            <h3>Languages</h3>
+            <p>English, Swahili</p>
+
+            <h3>Certifications</h3>
+            <p>Power BI, R Programming, SPSS, StaTa, Responsive Web Design</p>
+
+            <h3>Awards/Activities</h3>
+            <ul>
+                <li>Received the "Best Employee of the Month" Award for outstanding contributions to project innovation, Superzhan Ltd Company</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
